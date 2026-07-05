@@ -65,10 +65,6 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 
 ---
 
----
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jagan-raju)
