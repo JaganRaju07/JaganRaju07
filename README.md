@@ -84,14 +84,6 @@ One-line description of the project.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaganRaju07&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaganRaju07&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaganRaju07&layout=compact&theme=default&hide_border=true)
-
 ---
 
 ## Connect With Me
