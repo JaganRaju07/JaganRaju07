@@ -65,23 +65,6 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 
 ---
 
-## Featured Projects
-
-### Farm Connect
-Hyperlocal agricultural marketplace connecting farmers directly with local buyers.
-**Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Docker
-**Repository:** [github.com/JaganRaju07/farm-connect](https://github.com/JaganRaju07/farm-connect)
-
-### Project Name
-One-line description of the project.
-**Tech:** —
-**Repository:** —
-
-### Project Name
-One-line description of the project.
-**Tech:** —
-**Repository:** —
-
 ---
 
 ---
