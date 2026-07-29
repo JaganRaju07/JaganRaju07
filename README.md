@@ -6,7 +6,7 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 
 ## About Me
 
-- 🎓 Semester 4, Information Science & Engineering, NIE Mysuru
+- 🎓 Semester 5, Information Science & Engineering, NIE Mysuru
 - 💻 Currently strengthening Data Structures & Algorithms in Java
 - 🌐 Building full-stack web applications with modern JS frameworks
 - 🎯 Career goal: Software Engineer / Full-Stack Developer
