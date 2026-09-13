@@ -9,7 +9,6 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 - 🎓 Semester 5, Information Science & Engineering, NIE Mysuru
 - 💻 Currently strengthening Data Structures & Algorithms in Java
 - 🌐 Building full-stack web applications with modern JS frameworks
-- 🎯 Career goal: Software Engineer / Full-Stack Developer
 - 🤝 Open to collaborating on full-stack and machine learning projects
 - 📚 Continuous learner — web development, AI/ML, and system design
 
@@ -40,9 +39,11 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Security & Architecture**
-![Spring Security](...)
-![JWT](...)
-![MySQL](...)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-green?style=flat-square)
 
 **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
