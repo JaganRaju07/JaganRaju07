@@ -58,9 +58,9 @@ Spring Boot application with role-based portal, automated room allocation
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaganRaju07&show_icons=true&theme=radical)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaganRaju07&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaganRaju07&layout=compact&theme=radical)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaganRaju07&theme=github_dark)
 
 ---
 
