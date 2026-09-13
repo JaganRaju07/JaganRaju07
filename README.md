@@ -1,16 +1,30 @@
-# Hi, I'm Jagan Raju 👋
+# Hi 👋, I'm Jagan Raju
 
-Information Science & Engineering Student | Full-Stack Developer | Exploring AI/ML
+**Full-Stack Developer** | Java • JavaScript/TypeScript • React • Spring Boot | NIE Mysuru
 
 ---
 
 ## About Me
+- 🎓 Information Science & Engineering, NIE Mysuru (Sem 5)
+- 💻 Building production-grade full-stack applications
+- 🏗️ Focused on clean architecture, security, and scalability
+- 🤝 Open to collaborating on full-stack & ML projects
 
-- 🎓 Semester 5, Information Science & Engineering, NIE Mysuru
-- 💻 Currently strengthening Data Structures & Algorithms in Java
-- 🌐 Building full-stack web applications with modern JS frameworks
-- 🤝 Open to collaborating on full-stack and machine learning projects
-- 📚 Continuous learner — web development, AI/ML, and system design
+---
+
+## Featured Projects
+
+### 🩸 **DonorNet** — Emergency Blood & Organ Donor Network
+Production SaaS with real-time matching, RBAC, JWT auth, rate limiting
+- **Tech**: React + Vite • Express.js • MySQL
+- **Highlights**: Service-oriented architecture, security-hardened
+- [View Project →](https://github.com/JaganRaju07/DonorNet)
+
+### 🏨 **HostelMS** — Enterprise Hostel Management System
+Spring Boot application with role-based portal, automated room allocation
+- **Tech**: Spring Boot • Hibernate • MySQL
+- **Highlights**: Service layer, DTOs, Global exception handling
+- [View Project →](https://github.com/JaganRaju07/HostelMS)
 
 ---
 
@@ -18,55 +32,39 @@ Information Science & Engineering Student | Full-Stack Developer | Exploring AI/
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
+**Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Security & Architecture**
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+**Databases & Security**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-Security-green?style=flat-square)
 
 **Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**AI / ML**
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-**Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-## Current Focus
-
-- Building **Farm Connect** — a hyperlocal agricultural marketplace
-- Strengthening Data Structures & Algorithms in Java
-- Exploring Machine Learning fundamentals
-- Deepening System Design concepts
+## 📊 GitHub Stats
+*(Add stats via github-readme-stats if you like)*
 
 ---
+
+## 🔗 Connect
+📧 jaganrajub07@gmail.com
+💼 www.linkedin.com/in/jagan-raju  
+
+---
+
+*Last Updated: Sept 2026*
