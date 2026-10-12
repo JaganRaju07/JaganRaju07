@@ -26,6 +26,12 @@ Spring Boot application with role-based portal, automated room allocation
 - **Highlights**: Service layer, DTOs, Global exception handling
 - [View Project →](https://github.com/JaganRaju07/HostelMS)
 
+### 🌱 **Farm Connect** — Direct Farmer-to-Consumer Marketplace
+A full-stack agricultural marketplace designed to connect farmers directly with consumers and urban buyers.
+- **Tech**: Next.js • React • Node.js • Express.js • PostgreSQL • Cloudinary
+- **Highlights**: Role-based farmer and consumer workflows, marketplace discovery, location-based exploration, cart and checkout with stock validation, image uploads, and cloud deployment.
+- [View Project →](https://github.com/JaganRaju07/farm-connect)
+
 ---
 
 ## Tech Stack
