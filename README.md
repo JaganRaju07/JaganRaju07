@@ -26,11 +26,11 @@ Spring Boot application with role-based portal, automated room allocation
 - **Highlights**: Service layer, DTOs, Global exception handling
 - [View Project →](https://github.com/JaganRaju07/HostelMS)
 
-### 🩸 **DonorNet** — Emergency Blood & Organ Donor Network
-Production SaaS with real-time matching, RBAC, JWT auth, rate limiting
-- **Tech**: React + Vite • Express.js • MySQL
-- **Highlights**: Service-oriented architecture, security-hardened
-- [View Project →](https://github.com/JaganRaju07/DonorNet)
+### 🛡️ **AI_Malware_Detection** — Machine Learning Malware Detection System
+Academic minor project focused on detecting malware using machine learning techniques and research-driven feature analysis.
+- **Tech**: Python • Machine Learning • Data Analysis • Research
+- **Highlights**: Model evaluation, malware classification, feature-based detection, and academic experimentation
+- [View Project →](https://github.com/JaganRaju07/AI-Malware_Detection)
 
 ---
 
