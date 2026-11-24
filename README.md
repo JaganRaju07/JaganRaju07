@@ -1,68 +1,80 @@
-# Hi 👋, I'm Jagan Raju
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Jagan Raju B" src="assets/header-light.svg" width="100%">
+</picture>
 
-**Full-Stack Developer** | Java • JavaScript/TypeScript • React • Spring Boot | NIE Mysuru
+Third-year Information Science and Engineering student at The National Institute of Engineering, Mysuru. I build full-stack systems and applied machine learning, with particular attention to database design, access control, and being transparent about what a project does and doesn't do yet.
 
----
+## Selected work
 
-## About Me
-- 🎓 Information Science & Engineering, NIE Mysuru (Sem 5)
-- 💻 Building production-grade full-stack applications
-- 🏗️ Focused on clean architecture, security, and scalability
-- 🤝 Open to collaborating on full-stack & ML projects
+### Farm Connect
 
----
+A marketplace that connects farmers with buyers nearby. Customers sign in with a phone OTP, find produce by distance using the Haversine formula, and place Cash-on-Delivery orders that check stock as they are placed. An admin dashboard handles farmer verification.
 
-## Featured Projects
+**My part:** I led a team of three in the IEEE Computer Society IAMPro'26 programme. My technical role was full-stack and database lead: architecture, database design, backend services and deployment.
 
-| Project | Overview | Stack |
-|---|---|---|
-| [**Farm Connect**](https://github.com/JaganRaju07/farm-connect) | Marketplace connecting farmers directly with consumers, with location-based discovery and checkout. | Next.js · React · Node.js · Express · PostgreSQL |
-| [**HostelMS**](https://github.com/JaganRaju07/HostelMS) | Hostel management system with role-based portals and automated room allocation. | Spring Boot · Hibernate · MySQL |
-| [**AI Malware Detection**](https://github.com/JaganRaju07/AI-Malware_Detection) | Academic project exploring machine-learning-based malware detection using research resources. | Python · Machine Learning |
-| [**DonorNet**](https://github.com/JaganRaju07/DonorNet) | Donor network for blood and organ requests, featuring real-time matching and secure access. | React · Vite · Express · MySQL |
+**Known limits:** payments are Cash-on-Delivery only, and notifications poll every 10 seconds instead of using WebSockets.
 
----
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Express, PostgreSQL on Supabase
 
-## Tech Stack
+[Repository](https://github.com/JaganRaju07/farm-connect) · [Live demo](https://farm-connect-eta-ten.vercel.app)
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### AI Malware Detection
 
-**Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+A web workstation that compares seven machine-learning models on one question: does a program's behaviour when it runs look like ransomware? Validation keeps duplicate samples on the same side of every split, so near-copies cannot inflate the scores, and model selection never looks at the held-out test set. Predictions come with explanations, using SHAP for the tree-based models and coefficients for logistic regression, and behavioural indicators are mapped to MITRE ATT&CK techniques.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**My part:** one of four students on the project; I maintain the repository and the implementation.
 
-**Databases & Security**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logoColor=white)
+**Known limits:** it is a university minor project built on a single public dataset with no live sandbox, so its scores describe that dataset and not real-world detection. The demo runs on a free instance that sleeps when idle, so the first load can take about a minute.
 
-**Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Stack:** Python, scikit-learn, SHAP, React, Docker
 
----
+[Repository](https://github.com/JaganRaju07/AI-Malware_Detection) · [Live demo](https://ai-malware-defense-soc.onrender.com)
 
-## 📊 GitHub Stats
+### HostelMS
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JaganRaju07&theme=github_dark)
+A hostel administration system that takes a student from registration to room allocation, monthly fees and complaints. Admin and Student portals are kept apart with Spring Security authorities, and passwords are hashed with BCrypt. It is a server-rendered Spring MVC application.
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaganRaju07&theme=github_dark)
+**My part:** solo project.
 
----
+**Known limits:** it runs locally with no hosted demo. Its README lists what is still missing, including transactions around room allocation and fee generation, and integration tests.
 
-## 🔗 Connect
-📧 jaganrajub07@gmail.com
-💼 www.linkedin.com/in/jagan-raju  
+**Stack:** Java 17, Spring Boot, Spring MVC, JPA, MySQL, Thymeleaf
 
----
+[Repository](https://github.com/JaganRaju07/HostelMS)
 
-*Last Updated: Sept 2026*
+### NISB Digital Archive
+
+A searchable archive of the student branch's office bearers, societies and milestones, with a curator portal for drafting, verifying and publishing records. Public pages read only published, verified records through restricted database views, every write passes a server-side admin check, and any field without a published source is left empty instead of guessed.
+
+**My part:** I build and maintain it.
+
+**Status:** under active development; records are added as the committee supplies them.
+
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, Supabase, Zod
+
+[Repository](https://github.com/JaganRaju07/NISB)
+
+## Also built
+
+- **[DonorNet](https://github.com/JaganRaju07/DonorNet):** a blood and organ donor network for a DBMS course, with an emergency request board, donor matching and an organ-pledge workflow. React, Express, MySQL.
+- **[Agri Trade Ledger](https://github.com/JaganRaju07/Agri-trade-dashboard):** an offline D3 dashboard over FAOSTAT trade data for 2000 to 2024 (31,571 records) that reproduces a Power BI report across 12 pages, built with a lab partner for the Data Visualization Lab.
+
+## Stack
+
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Web:** Next.js, React, Tailwind CSS, Node.js and Express, Spring Boot, D3
+- **Data:** PostgreSQL, MySQL, Supabase (Auth, row-level security)
+- **Machine learning:** scikit-learn, SHAP, pandas
+- **Practice:** Git, Docker, JWT and bcrypt authentication, Vercel, Render
+
+## Community
+
+- **IEEE NIE Student Branch (NISB):** executive committee member as Computer Society Tech Lead and Student Branch Networking Coordinator. Built the participant platform for the Computer Society's OSINT challenge, Operation Phantom CTF, and hosted NISB Xtreme, the branch's coding contest.
+- **IEEE Xtreme 20.0:** Student Branch Ambassador for NISB.
+- **IEEE Computer Society Bangalore Chapter, IAMPro'26:** completed the six-month internship and mentorship programme (April to September 2026), leading the Farm Connect team.
+
+## Contact
+
+[jaganrajub07@gmail.com](mailto:jaganrajub07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jagan-raju)
