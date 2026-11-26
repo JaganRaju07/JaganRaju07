@@ -13,7 +13,7 @@ Third-year Information Science and Engineering student at The National Institute
 <a href="https://github.com/JaganRaju07/farm-connect">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-farm-connect-dark.svg">
-    <img alt="Farm Connect: farmer-to-buyer marketplace" src="assets/card-farm-connect-light.svg" width="100%">
+    <img alt="Farm Connect: farmer-to-buyer marketplace" src="assets/card-farm-connect-light.svg" width="560">
   </picture>
 </a>
 
@@ -26,7 +26,7 @@ Third-year Information Science and Engineering student at The National Institute
 <a href="https://github.com/JaganRaju07/AI-Malware_Detection">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-malware-detection-dark.svg">
-    <img alt="AI Malware Detection: ransomware behaviour classifier" src="assets/card-ai-malware-detection-light.svg" width="100%">
+    <img alt="AI Malware Detection: ransomware behaviour classifier" src="assets/card-ai-malware-detection-light.svg" width="560">
   </picture>
 </a>
 
@@ -39,7 +39,7 @@ Third-year Information Science and Engineering student at The National Institute
 <a href="https://github.com/JaganRaju07/HostelMS">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-hostelms-dark.svg">
-    <img alt="HostelMS: hostel administration system" src="assets/card-hostelms-light.svg" width="100%">
+    <img alt="HostelMS: hostel administration system" src="assets/card-hostelms-light.svg" width="560">
   </picture>
 </a>
 
@@ -52,7 +52,7 @@ Third-year Information Science and Engineering student at The National Institute
 <a href="https://github.com/JaganRaju07/NISB">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-nisb-digital-archive-dark.svg">
-    <img alt="NISB Digital Archive: IEEE student branch records archive" src="assets/card-nisb-digital-archive-light.svg" width="100%">
+    <img alt="NISB Digital Archive: IEEE student branch records archive" src="assets/card-nisb-digital-archive-light.svg" width="560">
   </picture>
 </a>
 
@@ -68,7 +68,7 @@ Third-year Information Science and Engineering student at The National Institute
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Languages: Java, TypeScript, JavaScript, Python, SQL. Web: Next.js, React, Tailwind CSS, Node.js, Express, Spring Boot, D3. Data: PostgreSQL, MySQL, Supabase. Machine learning: scikit-learn, pandas, SHAP. Tools: Docker, Git, Vercel, Render." src="assets/stack-light.svg" width="100%">
+  <img alt="Languages: Java, TypeScript, JavaScript, Python, SQL. Web: Next.js, React, Tailwind CSS, Node.js, Express, Spring Boot, D3. Data: PostgreSQL, MySQL, Supabase. Machine learning: scikit-learn, pandas, SHAP. Tools: Docker, Git, Vercel, Render." src="assets/stack-light.svg" width="600">
 </picture>
 
 Also used: JWT and bcrypt authentication, Supabase Auth and row-level security.
@@ -85,7 +85,3 @@ Also used: JWT and bcrypt authentication, Supabase Auth and row-level security.
 - **IEEE NIE Student Branch (NISB):** executive committee member as Computer Society Tech Lead and Student Branch Networking Coordinator. Built the participant platform for the Computer Society's OSINT challenge, Operation Phantom CTF, and hosted NISB Xtreme, the branch's coding contest.
 - **IEEE Xtreme 20.0:** Student Branch Ambassador for NISB.
 - **IEEE Computer Society Bangalore Chapter, IAMPro'26:** completed the six-month internship and mentorship programme (April to September 2026), leading the Farm Connect team.
-
-## Contact
-
-[jaganrajub07@gmail.com](mailto:jaganrajub07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jagan-raju)
