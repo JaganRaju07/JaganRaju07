@@ -6,7 +6,7 @@
 
 Third-year Information Science and Engineering student at The National Institute of Engineering, Mysuru. I build full-stack systems and applied machine learning, with particular attention to database design, access control, and being transparent about what a project does and doesn't do yet.
 
-[Email](mailto:jaganrajub07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jagan-raju) · [Projects](#featured-projects)
+[Email](mailto:jaganraju24@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jagan-raju) · [Projects](#featured-projects)
 
 ## Featured projects
 
