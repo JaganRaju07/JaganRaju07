@@ -10,12 +10,14 @@ Third-year Information Science and Engineering student at The National Institute
 
 ## Featured projects
 
+<div align="center">
 <a href="https://github.com/JaganRaju07/farm-connect">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-farm-connect-dark.svg">
     <img alt="Farm Connect: farmer-to-buyer marketplace" src="assets/card-farm-connect-light.svg" width="560">
   </picture>
 </a>
+</div>
 
 - Phone-OTP login, distance-based produce discovery, stock-checked Cash-on-Delivery orders, and an admin dashboard for farmer verification.
 - **My role:** led the three-person IAMPro'26 team as full-stack and database lead: architecture, schema, backend services and deployment.
@@ -23,12 +25,14 @@ Third-year Information Science and Engineering student at The National Institute
 
 [Repository](https://github.com/JaganRaju07/farm-connect) · [Live demo](https://farm-connect-eta-ten.vercel.app)
 
+<div align="center">
 <a href="https://github.com/JaganRaju07/AI-Malware_Detection">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-malware-detection-dark.svg">
     <img alt="AI Malware Detection: ransomware behaviour classifier" src="assets/card-ai-malware-detection-light.svg" width="560">
   </picture>
 </a>
+</div>
 
 - Compares seven machine-learning models on whether a program's behaviour looks like ransomware. Duplicate-aware validation stops near-copies inflating the scores, model selection never sees the held-out test set, and predictions are explained with SHAP (tree models) or coefficients (logistic regression), alongside MITRE ATT&CK mapping.
 - **My role:** one of four students; I maintain the repository and the implementation.
@@ -36,12 +40,14 @@ Third-year Information Science and Engineering student at The National Institute
 
 [Repository](https://github.com/JaganRaju07/AI-Malware_Detection) · [Live demo](https://ai-malware-defense-soc.onrender.com)
 
+<div align="center">
 <a href="https://github.com/JaganRaju07/HostelMS">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-hostelms-dark.svg">
     <img alt="HostelMS: hostel administration system" src="assets/card-hostelms-light.svg" width="560">
   </picture>
 </a>
+</div>
 
 - Takes a student from registration to room allocation, monthly fees and complaints. Admin and Student portals are separated with Spring Security authorities, passwords are BCrypt-hashed, and pages are server-rendered with Spring MVC.
 - **My role:** solo project.
@@ -49,27 +55,31 @@ Third-year Information Science and Engineering student at The National Institute
 
 [Repository](https://github.com/JaganRaju07/HostelMS)
 
-<a href="https://github.com/JaganRaju07/NISB">
+<div align="center">
+<a href="https://github.com/JaganRaju07/DonorNet">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/card-nisb-digital-archive-dark.svg">
-    <img alt="NISB Digital Archive: IEEE student branch records archive" src="assets/card-nisb-digital-archive-light.svg" width="560">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-donornet-dark.svg">
+    <img alt="DonorNet: blood and organ donor network" src="assets/card-donornet-light.svg" width="560">
   </picture>
 </a>
+</div>
 
-- Searchable archive of office bearers, societies and milestones, with a curator portal. Public pages read only published, verified records through restricted database views, every write passes a server-side admin check, and fields without a published source stay empty instead of guessed.
-- **My role:** I build and maintain it.
-- **Status:** under active development; records are added as the committee supplies them.
+- Emergency network linking hospitals, blood banks and donors: a prioritised request board, donor matching, a facility directory, and an organ-pledge workflow from pledge to hospital acceptance. Role-based logins for administrators and donors, JWT and bcrypt authentication, Helmet and rate limiting.
+- **Context:** BCS403 DBMS course project at NIE Mysuru.
+- **Limits:** runs locally from the provided SQL scripts; no hosted demo is linked.
 
-[Repository](https://github.com/JaganRaju07/NISB)
+[Repository](https://github.com/JaganRaju07/DonorNet)
 
-**Also built:** [DonorNet](https://github.com/JaganRaju07/DonorNet), a blood and organ donor network for a DBMS course (React, Express, MySQL), and [Agri Trade Ledger](https://github.com/JaganRaju07/Agri-trade-dashboard), an offline D3 dashboard over 31,571 FAOSTAT trade records (2000 to 2024) that reproduces a 12-page Power BI report, built with a lab partner.
+**Also built:** [NISB Digital Archive](https://github.com/JaganRaju07/NISB), a searchable archive of the student branch's office bearers, societies and milestones with a curator portal (Next.js, Supabase), in active development; and [Agri Trade Ledger](https://github.com/JaganRaju07/Agri-trade-dashboard), an offline D3 dashboard over 31,571 FAOSTAT trade records (2000 to 2024) that reproduces a 12-page Power BI report, built with a lab partner.
 
 ## Stack
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <img alt="Languages: Java, TypeScript, JavaScript, Python, SQL. Web: Next.js, React, Tailwind CSS, Node.js, Express, Spring Boot, D3. Data: PostgreSQL, MySQL, Supabase. Machine learning: scikit-learn, pandas, SHAP. Tools: Docker, Git, Vercel, Render." src="assets/stack-light.svg" width="600">
 </picture>
+</div>
 
 Also used: JWT and bcrypt authentication, Supabase Auth and row-level security.
 
